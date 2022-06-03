@@ -1,0 +1,27 @@
+{
+  "name": "discordbots",
+  "version": "1.0.0",
+  "description": "module for discord game bot by Iskak Toltay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsKEK/discord-game-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "games"
+  ],
+  "author": "\"Yskak Toltay\\iskaktoltay@gmail.com\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsKEK/discord-game-bot/issues"
+  },
+  "homepage": "https://github.com/IsKEK/discord-game-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
